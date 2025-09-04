@@ -6,3 +6,6 @@ function printNumbers(){
         console.log($a + 1);
     }
 }
+function deleteParagraph(){
+    document.querySelector("#first-paragraph").remove();
+}

@@ -1,3 +1,7 @@
 body{
     background-color: #fcb849;
 }
+form{
+    width: 800;
+    margin: auto;
+}
